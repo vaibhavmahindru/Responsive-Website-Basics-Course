@@ -1,0 +1,12 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+
+h1 {
+  font-style: oblique; /*changing the style*/
+  font-family: Helvetica; /*family of the font*/
+  color: red; /*changing the color of the text*/
+}
+html {
+  background-color: black; /*changing the color of background*/
+}
